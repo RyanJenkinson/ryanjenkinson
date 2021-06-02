@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hey 👋, I'm Ryan
+I'm currently a **Data Scientist** @centrefornetzero based in the UK 🇬🇧. I will add to this README in the future!
 
-<!--
-**RyanJenkinson/ryanjenkinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![website](https://img.shields.io/badge/-ryan.eco-4E69C8?style=flat-square&logo=Google-Chrome&color=green&link=https://ryan.eco)
+![linkedin](https://img.shields.io/badge/-@ryanjenkinson-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/ryanjenkinson/)
 
-Here are some ideas to get you started:
+![ecologi trees](https://img.shields.io/ecologi/trees/ryanjenkinson?style=flat-square)
+![ecologi carbon](https://img.shields.io/ecologi/carbon/ryanjenkinson?style=flat-square)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## ⚡️ A Few Quick Facts
+- 🔭 I’m currently working on decarbonising energy ⚡️, starting with heat and transport 🚗.
+- 🧐 Learning about python software development, the cloud and how we can best reach net zero using technology 🌱
+- 👨‍💻 I will start placing more projects on Github, though I have done many work privately in the past.
+- 📝 I intend to start write articles on my blog, which is currently under construction: ryan.eco/blog 🚧.
+- 💬 Get in contact if you are interested about using technology, ABM or ML/AI to decarbonise the grid. 
+- 📙 Check out my CV on my website: ryan.eco
+- 😄 Pronouns: *he/him*
