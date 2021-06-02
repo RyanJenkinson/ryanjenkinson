@@ -14,7 +14,7 @@ I'm currently a **Data Scientist** @centrefornetzero based in the UK 🇬🇧. I
 ## ⚡️ A Few Quick Facts
 - 🔭 I’m currently working on decarbonising energy ⚡️, starting with heat and transport 🚗.
 - 🧐 Learning about python software development, the cloud and how we can best reach net zero using technology 🌱
-- 👨‍💻 I will start placing more projects on Github, though I have done many work privately in the past.
+- 👨‍💻 I will start placing more projects on Github, though I have done most of my work in private repos in the past.
 - 📝 I intend to start write articles on my blog, which is currently under construction: ryan.eco/blog 🚧.
 - 💬 Get in contact if you are interested about using technology, ABM or ML/AI to decarbonise the grid. 
 - 📙 Check out my CV on my website: ryan.eco
