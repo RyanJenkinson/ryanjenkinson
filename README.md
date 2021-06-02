@@ -9,6 +9,13 @@ I'm currently a **Data Scientist** @centrefornetzero based in the UK 🇬🇧. I
 ![ecologi trees](https://img.shields.io/ecologi/trees/ryanjenkinson?style=for-the-badge)
 ![ecologi carbon](https://img.shields.io/ecologi/carbon/ryanjenkinson?style=for-the-badge)
 
+## Tools / Technologies
+![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-23A9F2?style=flat-square&logo=Flutter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-dd4814?style=flat-square&logo=Linux&logoColor=white)
 
 
 ## ⚡️ A Few Quick Facts
