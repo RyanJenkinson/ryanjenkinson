@@ -1,5 +1,5 @@
 # Hey 👋, I'm Ryan
-I'm currently a **Data Scientist** @centrefornetzero based in the UK 🇬🇧. I will add to this README in the future!
+I'm currently a **Data Scientist** [@krakenflex](https://www.github.com/upside-energy), [@octopus-energy](https://www.github.com/octoenergy) based in Manchester, UK 🇬🇧. I will add to this README in the future!
 
 ![Google Chrome](https://img.shields.io/badge/ryan.eco-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white&color=green&link=https://ryan.eco)
 ![Twitter](https://img.shields.io/badge/@ryancjenkinson-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/ryancjenkinson/)
@@ -55,10 +55,10 @@ Credit for images below: https://github.com/Ileriayo/markdown-badges
 
 
 ## ⚡️ A Few Quick Facts
-- 🔭 I’m currently working on decarbonising energy ⚡️, starting with heat and transport 🚗.
-- 🧐 Learning about python software development, the cloud and how we can best reach net zero using technology 🌱
+- 🔭 I’m currently working on decarbonising energy ⚡️, starting with optimising domestic devices, including electric vehicles, solar pv, batteries and heat pumps 🚗☀️🔋♨️.
+- 🧐 Learning about python software development, optimisation algorithms and how we can best reach net zero using technology 🌱
 - 👨‍💻 I will start placing more projects on Github, though I have done most of my work in private repos in the past.
-- 📝 I intend to start write articles on my blog, which is currently under construction: ryan.eco/blog 🚧.
-- 💬 Get in contact if you are interested about using technology, ABM or ML/AI to decarbonise the grid. 
-- 📙 Check out my CV on my website: ryan.eco
+- 📝 I intend to start write articles on my blog: [ryan.eco/blog](https://ryan.eco/blog) 🚧.
+- 💬 Get in contact if you are interested about using technology to decarbonise the grid and using energy more intelligently. 
+- 📙 Check out my CV on my website: [ryan.eco](https://ryan.eco)
 - 😄 Pronouns: *he/him*
