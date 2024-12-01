@@ -1,5 +1,5 @@
 # Hey 👋, I'm Ryan
-I'm currently a **Data Scientist** [@krakenflex](https://www.github.com/upside-energy), [@octopus-energy](https://www.github.com/octoenergy) based in Manchester, UK 🇬🇧. I will add to this README in the future!
+I'm currently a **Data Scientist** [@kraken](https://www.github.com/kraken-tech) ([flex](https://www.github.com/upside-energy)), [@octopusenergygroup](https://www.github.com/octoenergy) based in Manchester, UK 🇬🇧. I will add to this README in the future!
 
 ![Google Chrome](https://img.shields.io/badge/ryan.eco-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white&color=green&link=https://ryan.eco)
 ![Twitter](https://img.shields.io/badge/@ryancjenkinson-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://www.twitter.com/ryancjenkinson/)
